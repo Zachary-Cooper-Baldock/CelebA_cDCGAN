@@ -1,0 +1,8 @@
+torch
+torchvision
+torchmetrics
+numpy
+matplotlib
+imageio
+kornia
+pickle5
